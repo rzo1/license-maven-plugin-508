@@ -1,0 +1,8 @@
+
+List of third-party dependencies grouped by their license type.
+
+
+    Apache License, Version 2.0
+
+        * Apache Commons Lang (org.apache.commons:commons-lang3:3.8.1 - http://commons.apache.org/proper/commons-lang/)
+        * Commons Logging (commons-logging:commons-logging:1.1.1 - http://commons.apache.org/logging)
